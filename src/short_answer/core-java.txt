@@ -1,6 +1,7 @@
 ***ANSWER ALL OF THE QUESTIONS BELOW***
 
 What is a programming language?
+
 Answer:is language use to control the behaviour of machine particulary computer & is writting language tel computer what to do
 
 What is a JDK composed of? Define each components?
